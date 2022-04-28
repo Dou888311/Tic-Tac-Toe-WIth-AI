@@ -39,7 +39,7 @@ public class MiniMaxTurn
     }
 
     // This is the evaluation function as discussed
-// in the previous article ( http://goo.gl/sJgv68 )
+// in the previous article
     static int evaluate(char b[][])
     {
         // Checking for Rows for X or O victory.
